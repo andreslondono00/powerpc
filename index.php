@@ -36,7 +36,7 @@
                         <img src="images/formulario.png" class="card-img-center w-25">
                       </div>
                       <div class="card-body">
-                        <h5 class="card-title text-center">Formulario</h5>
+                        <h5 class="card-title text-center">Formulario 1</h5>
                       </div>
                     </a>
                   </div>
